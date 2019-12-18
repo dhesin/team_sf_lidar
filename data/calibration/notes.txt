@@ -1,0 +1,14 @@
+Timestamp 1492641712.70
+Elapsed Time: 204.06
+Camera image id: 3058
+
+Top right corner: 2.2727, -0.31456, 0.16044
+Bottom right corner: 2.2923, -0.57281, -0.67752
+Bottom left corner: 3.0087, -0.10875, -0.8633
+Tip of nose: 2.4756, -0.61129, 0
+Edge of ear: 2.6878, -0.5322, 0
+Neck/Shoulder: 2.6901, -0.70523, -0.12969
+
+Final transform:
+[ 0.09351516 -0.06567607 -0.66041402  1.10296591  4.61030486  0.40280272]
+Error: 28.8180118568

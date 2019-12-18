@@ -1,0 +1,2 @@
+dirset=$(dirname $1)
+python generate_tracklet_predictions.py $PROCESSED_DATA_HOME/$1/objects_obs1_lidar_predictions.csv $PROCESSED_DATA_HOME/$1/camera_timestamps.csv $PROCESSED_DATA_HOME/$dirset/metadata.csv $PROCESSED_DATA_HOME/$1/tracklet_predicted.xml

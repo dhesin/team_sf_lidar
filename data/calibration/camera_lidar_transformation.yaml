@@ -1,0 +1,9 @@
+euler_axes: rzxz
+translation:
+    rows: 1
+    cols: 3
+    data: [-0.59351637, -0.16568678, 1.66041135]
+euler_rotations:
+    rows: 1
+    cols: 3
+    data: [ 1.54593044, 1.50668231, -0.0331408 ]
